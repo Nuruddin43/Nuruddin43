@@ -1,6 +1,8 @@
+![Web Developer](https://media-exp2.licdn.com/dms/image/C4D16AQEckp2DLECn7A/profile-displaybackgroundimage-shrink_200_800/0/1654683663522?e=1661385600&v=beta&t=V0zTjbz2LlJo49eMfP7KUWFxJIktBRLR02sPu2EOsJw)
+
 ### Hi there 👋, I'm Nur Uddin
 #### Web Developer
-![Web Developer](https://media-exp2.licdn.com/dms/image/C4D16AQEckp2DLECn7A/profile-displaybackgroundimage-shrink_200_800/0/1654683663522?e=1661385600&v=beta&t=V0zTjbz2LlJo49eMfP7KUWFxJIktBRLR02sPu2EOsJw)
+
 
 A self-motivated and enthusiastic junior web developer with a deep interest in JavaScript. I have always focus on writing clean, elegant, testable and maintainable code. I am proficient in HTML5, CSS3, Bootstrap, Tailwind, JavaScript, React JS, Express JS, Node JS, MongoDB, Git, Heroku, Firebase, Netlify and Figma. I always determined to learn and explore new technology. 
 
