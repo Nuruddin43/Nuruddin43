@@ -24,7 +24,7 @@ Skills: REACT / JAVASCRIPT / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuruddin43)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuruddin43&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?Nuruddin43=anuraghazra&theme=jolly&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nuruddin43)  
 
